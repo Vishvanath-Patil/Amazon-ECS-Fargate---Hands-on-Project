@@ -26,4 +26,8 @@ Subnets:
 - Database Subnet 1
 - Database Subnet 2
 
+Resource Map:
+<img width="1472" height="446" alt="image" src="https://github.com/user-attachments/assets/31f6cb6b-6d0f-4d8a-98d6-a21da367e72f" />
+
+
 Associate route tables according to public and private subnet requirements.
