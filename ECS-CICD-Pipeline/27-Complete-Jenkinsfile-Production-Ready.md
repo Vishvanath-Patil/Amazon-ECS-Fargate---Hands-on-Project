@@ -1,4 +1,5 @@
 # 27 – Complete Jenkinsfile (Production-Ready Declarative Pipeline)
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/ecb05a14-0ed8-4955-8d19-3be296a59423" />
 
 ## Overview
 
