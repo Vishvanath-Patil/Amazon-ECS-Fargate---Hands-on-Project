@@ -1,5 +1,8 @@
 # Step 2 - Security Groups
 
+<img width="1690" height="931" alt="image" src="https://github.com/user-attachments/assets/cc6006d7-cef8-4a16-bb26-83ecf1e972df" />
+
+
 ## Application Load Balancer SG
 
 Inbound
