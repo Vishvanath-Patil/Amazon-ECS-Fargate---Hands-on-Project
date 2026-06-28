@@ -1,4 +1,5 @@
 # 31 – End-to-End CI/CD Pipeline Execution
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/a71bc20d-dc15-48e1-948b-2f4f260064aa" />
 
 > Complete end-to-end execution flow for deploying the Ritual Roast application to Amazon ECS Fargate using GitHub, Jenkins, Docker, Amazon ECR and Amazon ECS.
 
