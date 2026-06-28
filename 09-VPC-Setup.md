@@ -1,4 +1,5 @@
 # Step 1 - Create VPC
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ee8f7a54-01c4-4aed-b21d-5e0d6eb4adf3" />
 
 The tutorial creates:
 
