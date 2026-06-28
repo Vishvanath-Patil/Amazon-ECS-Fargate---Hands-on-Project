@@ -1,4 +1,5 @@
 # Step 10 - Create ECS Task Definition
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/5cc79259-083b-46fa-a071-e2c53bca971c" />
 
 ## Objective
 
