@@ -1,4 +1,5 @@
 # Step 19A – Create Target Group for Application Load Balancer (ALB)
+<img width="1149" height="1369" alt="image" src="https://github.com/user-attachments/assets/3ac57b7b-9711-46e3-a9f6-61e74298c242" />
 
 > Create an **Application Load Balancer Target Group** for the Ritual Roast application running on Amazon ECS Fargate.
 
