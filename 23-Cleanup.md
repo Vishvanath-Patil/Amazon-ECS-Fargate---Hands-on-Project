@@ -1,4 +1,5 @@
 # Cleanup Resources
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/7d1f8c46-ffeb-4efd-985e-766ff2c01843" />
 
 After completing the tutorial, remove resources to avoid unnecessary AWS charges.
 
