@@ -1,4 +1,5 @@
 # 25 – Blue/Green Deployment using AWS CodeDeploy (Zero-Downtime Deployment)
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/117ed4b9-524b-49d4-a740-6064fa1dc2d2" />
 
 > Deploy new versions of the Ritual Roast application with **zero downtime** by using Amazon ECS Blue/Green deployments integrated with AWS CodeDeploy.
 
