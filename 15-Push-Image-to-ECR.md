@@ -1,4 +1,5 @@
 # Step 7 - Push Docker Image to Amazon ECR
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/277cca76-cf87-40c9-8c91-355915ae7c57" />
 
 ## Steps
 1. Authenticate Docker with Amazon ECR.
