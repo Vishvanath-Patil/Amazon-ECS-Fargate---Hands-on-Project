@@ -1,4 +1,5 @@
 # Step 9 - Create IAM Task Execution Role
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d6ac0dcb-b3df-4b92-99f5-c442ba5add8e" />
 
 ## Objective
 
