@@ -1,4 +1,5 @@
 # Virtualization vs Containers
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/b2a365e2-7eee-467e-bdf2-d76961f516d5" />
 
 ## Virtual Machines
 
