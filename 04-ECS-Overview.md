@@ -1,4 +1,5 @@
 # Amazon ECS Overview
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/9a9fb4a9-35a2-465f-a4d3-df07290241d3" />
 
 ## ECS Components
 
