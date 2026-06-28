@@ -1,4 +1,5 @@
 # 29 – Configure GitHub Webhook for Jenkins
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/b854cf79-28e9-4a45-8701-3695e30de71e" />
 
 > Configure a GitHub Webhook so every push to the repository automatically triggers the Jenkins CI/CD pipeline.
 
