@@ -1,4 +1,5 @@
 # Step 13 -- Configure Docker Build Server
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/95972830-ce68-4681-a15b-76779a587473" />
 
 Prepare an EC2 build server to build Docker images and push them to
 Amazon ECR.
