@@ -1,4 +1,5 @@
 # ECS Launch Types
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/305a3f58-5a0b-4cf9-ba9c-e67dfb660c96" />
 
 ## EC2 Launch Type
 
