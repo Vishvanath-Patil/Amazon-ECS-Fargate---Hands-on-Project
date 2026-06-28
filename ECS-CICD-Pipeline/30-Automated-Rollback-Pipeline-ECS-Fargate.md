@@ -1,4 +1,5 @@
 # 30 – Automated Rollback Pipeline (Rollback to Previous ECS Task Definition)
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/55352d97-a6b8-4cf0-9455-6466526a89cb" />
 
 > Automatically roll back the Ritual Roast application to the previous stable Amazon ECS Task Definition revision if a deployment fails.
 
