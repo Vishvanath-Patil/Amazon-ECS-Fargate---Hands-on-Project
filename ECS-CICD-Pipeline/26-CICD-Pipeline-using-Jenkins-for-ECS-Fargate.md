@@ -1,4 +1,5 @@
 # 26 – CI/CD Pipeline using Jenkins for Amazon ECS Fargate
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/3a6f41e1-45bf-4964-86d6-42265241e70d" />
 
 ## Objective
 
