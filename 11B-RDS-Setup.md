@@ -1,4 +1,5 @@
 # Step 3 - Create Amazon RDS MySQL
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d210069a-e17d-45f0-a010-defec96061e4" />
 
 ## Objective
 Deploy a MySQL database used by the coffee shop application.
