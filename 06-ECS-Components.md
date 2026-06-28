@@ -1,4 +1,5 @@
 # ECS Components
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/24e07cf6-755f-4ada-9124-dcf2d8627236" />
 
 ## Amazon ECR
 Stores Docker images.
