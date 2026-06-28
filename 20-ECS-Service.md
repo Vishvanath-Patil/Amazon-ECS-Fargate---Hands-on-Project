@@ -1,4 +1,5 @@
 # Step 12 - Create ECS Service
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/9789d0ff-d81b-4e9e-a63d-72cf1a7d4b21" />
 
 ## Objective
 
