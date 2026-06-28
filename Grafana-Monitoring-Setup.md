@@ -1,4 +1,5 @@
 # Grafana Monitoring Setup (Amazon ECS Fargate)
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/834398a8-5d82-4510-8e9c-a53bd902e680" />
 
 ## Overview
 
