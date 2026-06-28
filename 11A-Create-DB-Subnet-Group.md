@@ -7,6 +7,8 @@
 ------------------------------------------------------------------------
 
 # Purpose of a DB Subnet Group
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/059a0e78-0f80-4380-98e9-9c17f87722c1" />
+
 
 A **DB Subnet Group** is a collection of **private subnets** in
 different Availability Zones that Amazon RDS uses when deploying a
