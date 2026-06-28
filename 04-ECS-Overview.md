@@ -18,4 +18,4 @@ You manage EC2 instances.
 
 AWS manages infrastructure.
 
-The tutorial deploys the application using **AWS Fargate**.
+The deploys the application using **AWS Fargate**.
