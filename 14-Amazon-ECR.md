@@ -1,4 +1,5 @@
 # Step 6 - Amazon Elastic Container Registry (ECR)
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/b8b91ecf-62ca-4723-a609-1ff21d687dfb" />
 
 ## Objective
 Store the Docker image in Amazon ECR.
