@@ -1,4 +1,5 @@
 # Project Steps
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/9ba1bc28-14ef-4225-880b-aa1d23f49a29" />
 
 ## Step 1
 Create a VPC with:
