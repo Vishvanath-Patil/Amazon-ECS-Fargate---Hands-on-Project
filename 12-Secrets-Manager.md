@@ -1,4 +1,5 @@
 # Step 4 - AWS Secrets Manager
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/b86a03a0-fb8f-4995-ab13-36d176a448ce" />
 
 ## Objective
 Store the database credentials securely instead of hardcoding them.
