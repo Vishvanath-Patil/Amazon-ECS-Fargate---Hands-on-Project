@@ -1,4 +1,5 @@
 # 28 – Configure Jenkins on EC2
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/31ca27a8-1603-4124-b698-51cd9ef54f3b" />
 
 > Complete production-ready guide for installing and configuring Jenkins on an Amazon EC2 instance to build and deploy the **Ritual Roast** application to Amazon ECS Fargate.
 
