@@ -1,4 +1,5 @@
 # Step 22A – Enable ECS Exec (Container Shell Access)
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/90a45b90-8081-498f-81b5-a21e2bc6fb5c" />
 
 ## Overview
 
