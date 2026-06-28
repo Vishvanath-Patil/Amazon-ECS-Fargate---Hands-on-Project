@@ -1,4 +1,5 @@
 # Step 14 - Verify Database Entries
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/0afce024-cdef-47e1-b58b-6ecd5cce6f6a" />
 
 ## Objective
 
