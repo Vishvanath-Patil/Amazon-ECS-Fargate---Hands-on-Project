@@ -1,4 +1,5 @@
 # 33 – Advanced Production Scenario-Based Interview Questions (Amazon ECS Fargate)
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/7d5cb1b8-c12e-46d2-ae7f-e5ad3eb9b42e" />
 
 > Real-world production scenarios and model answers for Senior Cloud & DevOps Engineer interviews.
 
