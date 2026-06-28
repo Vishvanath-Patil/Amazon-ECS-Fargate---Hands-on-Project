@@ -1,4 +1,5 @@
 # Logging and Monitoring (Amazon ECS Fargate)
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/78fbcced-c377-4aa1-84c2-6b8cc6f95944" />
 
 ## Overview
 
