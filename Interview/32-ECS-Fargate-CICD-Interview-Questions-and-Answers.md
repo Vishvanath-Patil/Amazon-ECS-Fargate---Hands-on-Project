@@ -1,4 +1,5 @@
 # ECS Fargate + CI/CD Interview Questions & Answers (Scenario Based)
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/f471f7d9-e088-4e7e-b14d-7b19a48b30ec" />
 
 ## Overview
 
