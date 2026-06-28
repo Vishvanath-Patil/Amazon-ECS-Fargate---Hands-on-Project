@@ -1,4 +1,5 @@
 # Step 8 - Create Amazon ECS Cluster
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/3ca98753-2972-4a6a-a2c2-fa974f9e4a49" />
 
 ## Objective
 
