@@ -1,4 +1,5 @@
 # Deployment Guide - Deploy a New Application Version to Amazon ECS Fargate
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/5978af67-980d-4830-b3bc-ed304c4b0c83" />
 
 ## Scenario
 
