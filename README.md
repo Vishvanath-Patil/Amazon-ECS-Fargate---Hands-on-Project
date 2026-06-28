@@ -1,7 +1,5 @@
 # AWS ECS Fargate Hands-On Project
 
-This documentation follows the referenced YouTube tutorial and transcript.
-
 ## Chapters
 
 1. Introduction
