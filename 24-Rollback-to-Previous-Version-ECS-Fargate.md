@@ -1,4 +1,5 @@
 # 24 – Rollback to Previous Version (Amazon ECS Fargate)
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/c94b1f35-4dd4-4e6c-8aa3-66078b7bc1e4" />
 
 > This guide explains how to safely roll back the Ritual Roast application to a previous stable release using Amazon ECS Task Definition revisions.
 
