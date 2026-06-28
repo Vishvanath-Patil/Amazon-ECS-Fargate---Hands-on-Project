@@ -1,4 +1,5 @@
 # Troubleshooting
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/dff9c708-be65-4430-a5de-8a286425599c" />
 
 ## ECS Task Stops Immediately
 
