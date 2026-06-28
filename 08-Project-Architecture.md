@@ -1,4 +1,5 @@
 # Project Architecture
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/90bfc527-86c9-4625-80fa-3512601953d9" />
 
 Resources created in the tutorial:
 
