@@ -3,6 +3,7 @@
 ## Project
 
 Deploy a multi-tier coffee shop application on Amazon ECS using the Fargate launch type.
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/0c566bd6-4988-4977-b77c-7d2c822f813a" />
 
 ## Learning Objectives
 
